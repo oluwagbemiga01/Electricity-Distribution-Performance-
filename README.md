@@ -2,6 +2,10 @@
 This project analyzes electricity distribution performance to evaluate energy supply, billing and revenue efficiency across different service areas.
 
 ---
+### Dashboard Preview
+![](https://github.com/oluwagbemiga01/Electricity-Distribution-Performance-/blob/main/Electricity%20Dashboard.png)
+
+---
 ## Company Context
 A regional electricity distribution company is responsible for delivering reliable power to residential, commercial, and industrial customers through a network of substations and distribution lines.
 
@@ -38,6 +42,3 @@ Payment patterns differ significantly across customer segments
 2. Industrial customers record the highest collection efficiency at **27.4%**, slightly outperfoming other customer segments. Even though they had **27.4%** collection efficiency, this indicates that revenue recovery is very low.
 3. Collection efficiency across all customer segments (Residential, Industrial, Commercial) should be improved on for better improvement of payment structure.
 
----
-### Dashboard Section
-![](https://github.com/oluwagbemiga01/Electricity-Distribution-Performance-/blob/main/Electricity%20Dashboard.png)
