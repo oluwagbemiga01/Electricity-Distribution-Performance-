@@ -37,3 +37,7 @@ Payment patterns differ significantly across customer segments
 1. Management should prioritise the **Central region** to ensure Billing accuracies.
 2. Industrial customers record the highest collection efficiency at **27.4%**, slightly outperfoming other customer segments. Even though they had **27.4%** collection efficiency, this indicates that revenue recovery is very low.
 3. Collection efficiency across all customer segments (Residential, Industrial, Commercial) should be improved on for better improvement of payment structure.
+
+---
+### Dashboard Section
+![](https://github.com/oluwagbemiga01/Electricity-Distribution-Performance-/blob/main/Electricity%20Dashboard.png)
